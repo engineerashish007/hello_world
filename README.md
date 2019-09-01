@@ -7,4 +7,5 @@ pull after updating 3rd time
 
 ##adding changes in code
 
-##pull the change at local
+##pull the change at local,
+recieved pull,editing it and pushing it back

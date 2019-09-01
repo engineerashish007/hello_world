@@ -9,3 +9,4 @@ pull after updating 3rd time
 
 ##pull the change at local,
 recieved pull,editing it and pushing it back
+adding changes from new branch and then pushing it back
